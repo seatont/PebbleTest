@@ -1,0 +1,29 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "15282b6f-514a-46c2-9af0-8aeed0c8b256",
+    "appKeys": {},
+    "longName": "PebbleTest",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "PebbleTest",
+    "companyName": "seatont@gmail.com",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "PANDA_IDENTIFIER",
+                "file": "images/panda.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_NO_LITTER",
+                "file": "images/no_litter_crop.png"
+            }
+        ]
+    }
+}
